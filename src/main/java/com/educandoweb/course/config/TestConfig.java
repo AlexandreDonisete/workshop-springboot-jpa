@@ -1,4 +1,4 @@
-package com.educandoweb.course.cofnig;
+package com.educandoweb.course.config;
 
 import com.educandoweb.course.entities.User;
 import com.educandoweb.course.repositories.UserRepository;
