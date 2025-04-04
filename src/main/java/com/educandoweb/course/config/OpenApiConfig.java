@@ -2,7 +2,7 @@ package com.educandoweb.course.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
-import io.swagger.v3.oas.annotations.tags.Tag;
+import io.swagger.v3.oas.models.OpenAPI;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
@@ -14,5 +14,4 @@ import org.springframework.context.annotation.Configuration;
         )
 )
 public class OpenApiConfig {
-
 }
