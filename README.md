@@ -26,7 +26,7 @@ A aplicação simula um sistema de e-commerce básico com funcionalidades como c
 ## 📦 Back end
 
 ### ✅ Pré-requisitos:
-- Java 17 instalado
+- Java 17 ou superior
 - Docker e Docker Compose instalados
 
 ### 🚀 Passos para execução:
