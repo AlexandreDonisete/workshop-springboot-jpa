@@ -19,17 +19,28 @@ A aplicação simula um sistema de e-commerce básico com funcionalidades como c
 - Swagger
 - Maven
 - H2 DataBase
+- Docker
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 17
+## 📦 Back end
+
+### ✅ Pré-requisitos:
+- Java 17 instalado
+- Docker e Docker Compose instalados
+
+### 🚀 Passos para execução:
 
 ```bash
-# clonar repositório
+# 1. Clonar o repositório
 git clone https://github.com/AlexandreDonisete/workshop-springboot-jpa.git
 
-# executar o projeto através da própria IDE de preferência.
+# 2. Acessar a pasta do projeto
+cd course
+
+# 3. Construir as imagens e iniciar os containers
+docker compose up --build
+
 ```
 
 # Autor
